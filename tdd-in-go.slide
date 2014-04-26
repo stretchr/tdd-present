@@ -46,6 +46,8 @@ https://github.com/stretchr/tdd-present
 
 .code coverage.sh
 
+With TDD practices, the coverage number is automatically very high.
+
 * Helper libraries?
 
 - Ginkgo
