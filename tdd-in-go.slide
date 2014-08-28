@@ -59,6 +59,7 @@ With TDD practices, the coverage number is automatically very high.
 .code spec.go
 
 - Extra stuff to learn
+- If not just add assert(testing.T, bool), ok(testing.T, thing), etc.
 
 * Testify - Thou shalt write tests
 
@@ -89,7 +90,9 @@ In Testify:
 - Be similar to Go standard library
 - Prove a bug by submitting a failing test with your bug report
 - Describe new functionality in test code
+- Give a failing test to your pair partner
 - Tests as simple as possible
 - Different test package (test as a real user)
+- Interfaces in test code
 
 * Workshop
