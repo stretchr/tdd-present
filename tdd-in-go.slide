@@ -1,6 +1,6 @@
 TDD in Go
-GopherCon - Lightning Talk
-26 Apr 2014
+Monthly Denver Gopher Meetup
+28 Aug 2014
 
 Mat Ryer
 Developer, Stretchr Inc.
@@ -77,16 +77,6 @@ With TDD practices, the coverage number is automatically very high.
 In Testify:
 
 .code mock.go /START OMIT/,/END OMIT/
-
-* Pain point in Go
-
-There is no way to automatically create a mock of an interface in Go.
-
-.code mock2.go /START OMIT/,/END OMIT/
-
-How about:
-
-.code wish.go
 
 * What we do
 
