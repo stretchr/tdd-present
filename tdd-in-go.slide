@@ -86,6 +86,10 @@ In Testify:
 
 * Ideas
 
+- Be similar to Go standard library
 - Prove a bug by submitting a failing test with your bug report
-- GitHub hooks to ensure commits don't break things
 - Describe new functionality in test code
+- Tests as simple as possible
+- Different test package (test as a real user)
+
+* Workshop
