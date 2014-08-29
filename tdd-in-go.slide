@@ -79,6 +79,8 @@ In Testify:
 
 .code mock.go /START OMIT/,/END OMIT/
 
+- Interfaces in test code
+
 * What we do
 
 - On save: build and run all package tests - see blog.stretchr.com
